@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\bin\Release\DAO.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\bin\Release\DAO.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\bin\Release\DAO.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\bin\Release\DTO.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\bin\Release\DTO.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\bin\Release\DTO.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\DAO\obj\Release\DAO.pdb

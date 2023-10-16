@@ -1,0 +1,6 @@
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\bin\Debug\TOOL.dll
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\bin\Debug\TOOL.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Debug\TOOL.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Debug\TOOL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Debug\TOOL.dll
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Debug\TOOL.pdb

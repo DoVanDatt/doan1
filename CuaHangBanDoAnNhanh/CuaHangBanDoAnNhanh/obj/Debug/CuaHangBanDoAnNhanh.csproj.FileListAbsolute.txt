@@ -1,0 +1,87 @@
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.fKhachHang.resources
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FnhanVien.resources
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.Properties.Resources.resources
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.exe.config
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.exe
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.pdb
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.exe
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.exe
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.exe
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.exe
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.pdb
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.exe.config
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.exe.config
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.pdb
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.exe.config
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.exe.config
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.CopyComplete
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.exe
+C:\Users\nguye\source\repos\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.fKhachHang.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FnhanVien.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.CopyComplete
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FdanhMuc.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FmonAn.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FthemMonAn.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.DangNhap.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.hóa_đơn.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.fTaiKhoan.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FTrangChu.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FthongKe.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.exe.config
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.exe
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\CuaHangBanDoAnNhanh.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FdanhMuc.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.fKhachHang.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FmonAn.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FnhanVien.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.DangNhap.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.fTaiKhoan.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FthemMonAn.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.hóa_đơn.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FthongKe.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.FTrangChu.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.Properties.Resources.resources
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.csproj.CopyComplete
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.exe
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\obj\Debug\CuaHangBanDoAnNhanh.pdb
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\BLL.dll
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DTO.dll
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\TOOL.dll
+C:\Users\nguye\Documents\Zalo Received Files\đỗ Đạt\CuaHangBanDoAnNhanh\CuaHangBanDoAnNhanh\bin\Debug\DAO.dll

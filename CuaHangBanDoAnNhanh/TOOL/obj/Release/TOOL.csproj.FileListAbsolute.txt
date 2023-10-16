@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\bin\Release\TOOL.exe.config
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\bin\Release\TOOL.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\bin\Release\TOOL.pdb
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.exe
+C:\Users\Administrator\Desktop\đỗ Đạt\CuaHangBanDoAnNhanh\TOOL\obj\Release\TOOL.pdb
